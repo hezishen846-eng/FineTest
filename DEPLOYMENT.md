@@ -1,5 +1,11 @@
 # Streamlit Community Cloud 部署
 
+已部署应用：https://ev-campus-final-hezishen846.streamlit.app/
+
+GitHub 仓库：https://github.com/hezishen846-eng/FineTest
+
+部署入口：`main` 分支的 `app.py`，Python 3.13。
+
 本目录是完整项目根目录，云端入口为 `app.py`。
 
 1. 将代码上传到 GitHub，保留 `views/`、`data/`、`.streamlit/` 的目录结构。
